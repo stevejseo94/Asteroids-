@@ -2,8 +2,7 @@
 
 A classic retro-style arcade space shooter built in Python using **Pygame**. Pilot your starfighter through a dense asteroid belt, blast incoming space rocks into fragments, and survive as long as possible to set a new high score!
 
-![Gameplay Preview](assets/gameplay-preview.gif)
-*(Tip: Replace this path with a short GIF or screenshot of your game in action!)*
+![Gameplay Preview]((https://canva.link/tbvb7hxpqvvyho8)
 
 ---
 
